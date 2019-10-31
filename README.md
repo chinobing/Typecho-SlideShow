@@ -10,7 +10,7 @@
 
 
 # 效果图
-![](https://github.com/chinobing/Typecho-SlideShow/blob/master/demo.png)
+![](https://raw.githubusercontent.com/chinobing/Typecho-SlideShow/master/demo.png)
 
 # 网址 - 首页效果展示
 [薯仔投 - 上市资讯网](https://shuzaitou.com/)
