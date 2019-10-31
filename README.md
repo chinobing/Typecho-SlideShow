@@ -12,7 +12,7 @@
    如：自定义字段 thumb ：　https://xxxx.com/bg.png 
 
 # 效果图
-![](https://raw.githubusercontent.com/chinobing/Typecho-SlideShow/master/demo.png)
+![](demo.png)
 
 # 网址 - 首页效果展示
 [薯仔投 - 上市资讯网](https://shuzaitou.com/)
