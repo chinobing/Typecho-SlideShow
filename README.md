@@ -17,4 +17,4 @@
 # 网址
 展示网站：[薯仔投 - 上市资讯网](https://shuzaitou.com/)
 
-更新网站： [柯西君_BingWong](https://bingwong.org/)
+更新网站： [柯西君_BingWong](https://bingwong.org/2019/10/31/Typecho-SlideShow.html)
