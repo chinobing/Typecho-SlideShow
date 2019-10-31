@@ -14,5 +14,7 @@
 # 效果图
 ![](https://raw.githubusercontent.com/chinobing/Typecho-SlideShow/master/demo.png)
 
-# 网址 - 首页效果展示
-[薯仔投 - 上市资讯网](https://shuzaitou.com/)
+# 网址
+展示网站：[薯仔投 - 上市资讯网](https://shuzaitou.com/)
+
+更新网站： [柯西君_BingWong](https://bingwong.org/)
