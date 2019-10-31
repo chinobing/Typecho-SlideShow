@@ -5,9 +5,11 @@
 是基于TePostView插件生成热门文章，然后整合carousel.min.js等达到幻灯片滑动播放的效果。
 
 # 食用方法
-1. 在相应的页面/首页需要展示的地方填上 `<?php SlideShow_Plugin::outputSlideShow() ?> `即可
+1. 文件夹命名为`SlideShow` 
 
-2. 文章需要设置`thumb` 自定义字段，这里需要填写图片地址，要不然会显示不了，出现空白的情况。
+2. 在相应的页面/首页需要展示的地方填上 `<?php SlideShow_Plugin::outputSlideShow() ?> `即可
+
+3. 文章需要设置`thumb` 自定义字段，这里需要填写图片地址，要不然会显示不了，出现空白的情况。
 
    如：自定义字段 thumb ：　https://xxxx.com/bg.png 
 
