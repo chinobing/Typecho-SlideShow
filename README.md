@@ -4,6 +4,11 @@
 # 原理
 是基于TePostView插件生成热门文章，然后整合carousel.min.js等达到幻灯片滑动播放的效果。
 
+# 食用方法
+在相应的页面/首页需要展示的地方填上 `<?php SlideShow_Plugin::outputSlideShow() ?> `即可
+
+
+
 # 效果图
 
 
